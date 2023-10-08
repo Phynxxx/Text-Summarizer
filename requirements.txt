@@ -1,4 +1,4 @@
-spacy==3.7.1
+spacy
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.0/en_core_web_md-3.7.0-p
-streamlit==1.27.2
-streamlit-chat==0.1.1
+streamlit
+streamlit-chat
