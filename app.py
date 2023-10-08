@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 st.header("Summarizer")
-st.markdown("[Github](https://github.com/ai-yash/st-chat)")
+st.markdown("[Github](https://github.com/Phynxxx/Text-Summarizer)")
 
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
