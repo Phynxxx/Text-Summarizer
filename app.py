@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_chat as sc
 from text_summarizer import summarizer
 from streamlit_chat import message
 
